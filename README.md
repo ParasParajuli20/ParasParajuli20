@@ -1,7 +1,7 @@
  <h1 align="center">Hi there 👋, I'm Paras Parajuli</h1>
 
 <p align="center">
-🔐 Application Security Associate @ Eminence Ways | Cybersecurity Enthusiast<br/>
+🔐 Application Security Researcher @ Eminence Ways | Cybersecurity Enthusiast<br/>
 🇳🇵 Based in Kathmandu, Nepal | 🧠 Constant Learner | 🕵️ Focused on Breaking and Securing Apps
 </p>
 
